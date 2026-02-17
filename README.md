@@ -35,8 +35,16 @@ New DYEEG Database ( 新 · 俞博睿音源 )
 
 ---
 
-###  鬼畜 / 音 MAD 工程
+### 鬼畜 / 音 MAD 工程
 
 | 标题                    | 链接                                                                                  |
 |:---------------------:|:-----------------------------------------------------------------------------------:|
 | 【电棍】我们共铸辉煌 ( 汉阳一中校歌 ) | [Github Releases](https://github.com/Tor-bilibili/StarDrive/releases/tag/Music-MAD) |
+
+熊少西寒假自由鬼畜合作工程
+
+| 标题                            | 链接                                                                                  |
+|:-----------------------------:|:-----------------------------------------------------------------------------------:|
+| 01.【伪·物合作单品】伪熊少西              | [Github Releases](https://github.com/Tor-bilibili/StarDrive/releases/tag/Phony-MAD) |
+| 02.【伪合作单品】熊少西的号哭              |                                                                                     |
+| 03. 不为人知的熊少西童谣 ( short ver. ) | [Github Releases](https://github.com/Tor-bilibili/StarDrive/releases/tag/UMX-MAD)   |
